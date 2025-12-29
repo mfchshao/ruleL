@@ -1,7 +1,10 @@
-# NAME: Fanka
-# AUTHOR: mfchshao
+# NAME: Fanka app
+# AUTHOR: mfchs
 DOMAIN-SUFFIX, feed-image.baidu.com
 DOMAIN-SUFFIX, mobads.baidu.com
 DOMAIN-SUFFIX, mobads-logs.baidu.com
 DOMAIN-SUFFIX, mobads-logs.baidu.com
 DOMAIN-SUFFIX, mobads-pre-config.cdn.bcebos.com
+DOMAIN-SUFFIX, sdk.adx.adwangmai.com
+DOMAIN-SUFFIX, pre.bj.ad.track.66mobi.com
+DOMAIN-SUFFIX, volc.bj.ad.track.66mobi.com
