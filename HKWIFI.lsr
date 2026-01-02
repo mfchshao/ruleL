@@ -1,0 +1,14 @@
+DOMAIN-SUFFIX,wlan.three.com.hk
+DOMAIN-SUFFIX,wlan.datapath.three.com.hk
+DOMAIN-SUFFIX,epdg.epc.mnc000.mcc454.pub.3gppnetwork.org
+DOMAIN-SUFFIX,csl.prod.ondemandconnectivity.com
+DOMAIN-SUFFIX,device.three.com.hk
+DOMAIN-SUFFIX,hhk.prod.ondemandconnectivity.com
+DOMAIN-SUFFIX,ss.epdg.epc.geo.mnc000.mcc454.pub.3gppnetwork.org
+DOMAIN-SUFFIX,ss.epdg.epc.mnc000.mcc454.pub.3gppnetwork.org
+DOMAIN-SUFFIX,wlan.three.com.hk
+IP-CIDR,120.88.224.0/32,no-resolve
+IP-CIDR,120.88.240.0/32,no-resolve
+IP-CIDR,124.217.186.0/32,no-resolve
+IP-CIDR,203.145.92.0/32,no-resolve
+IP-CIDR,4.209.41.0/24,no-resolve
